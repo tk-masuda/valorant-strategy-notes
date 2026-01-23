@@ -56,4 +56,4 @@ Re:VIEWの基本的な記法:
 - `//tip{ ... //}` - ヒント
 - `//warning{ ... //}` - 警告
 
-詳細は[Re:VIEW公式ドキュメント](https://github.com/kmuto/review/blob/master/doc/format.ja.md)を参照してください。
+詳細は[Re:VIEW公式ドキュメント](https://github.com/kmuto/review)を参照してください。
