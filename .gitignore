@@ -1,0 +1,26 @@
+# Re:VIEW build artifacts
+*.pdf
+*.epub
+*.html
+*.xml
+*.aux
+*.log
+*.toc
+*.out
+*.dvi
+
+# Ruby/Bundler
+Gemfile.lock
+.bundle/
+vendor/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/

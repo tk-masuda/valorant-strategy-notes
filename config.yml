@@ -1,0 +1,26 @@
+# Re:VIEW Configuration File
+# Valorant戦略ノート
+
+bookname: valorant-strategy-notes
+booktitle: Valorant戦略ノート
+aut: ["著者名"]
+
+language: ja
+
+# PDFの設定
+texdocumentclass: ["review-jsbook", "media=ebook,paper=a5,serial_pagination=true,openany,fontsize=10pt,line_length=40zw,number_of_lines=40,head_space=18mm,foot_space=18mm"]
+
+# HTMLの設定
+htmlversion: 5
+
+# EPUBの設定
+epubversion: 3
+
+# 目次の深さ
+toclevel: 2
+
+# 表紙の設定
+coverimage: null
+
+# ページ番号の開始
+startpage: 1
