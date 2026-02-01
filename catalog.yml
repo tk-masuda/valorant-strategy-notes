@@ -1,0 +1,12 @@
+# Catalog file for Re:VIEW
+# 章構成を定義
+
+PREDEF:
+
+CHAPS:
+  - 01-hogehoge.re
+  - 02-fugafuga.re
+
+APPENDIX:
+
+POSTDEF:
